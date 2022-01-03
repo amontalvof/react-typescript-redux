@@ -4,4 +4,4 @@
 
 -   React
 -   TypeScript
--   Reduc
+-   Redux
